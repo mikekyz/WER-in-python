@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*-
 #!/usr/bin/env python
+# WER Calculation
 
 import sys
 import numpy
